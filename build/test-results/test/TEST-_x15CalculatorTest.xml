@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="_x15CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-01T01:12:57" hostname="DESKTOP-MDT29VB" time="0.007">
+  <properties/>
+  <testcase name="main" classname="_x15CalculatorTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
