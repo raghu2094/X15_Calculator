@@ -1,0 +1,19 @@
+
+Assumptions:
+1) The expressions should follow the program constructs as defined in the question
+2) If a variable is not initialized, " Variable not initialized "error will be shown
+3) If a variable is used in an expression without defining it before, "Variable not defined" error will be shown
+4) If an operator other the allowed operators is used in an expression, " Operator not recognized " error will be shown
+5) If a variable definition doesn't follow the program constructs, error is shown
+
+
+
+Currently , There are 10 test cases inside the tests folder.
+To evaluate the program follow the given steps:
+    1) Create a sub-folder inside tests folder
+    2) Include a test.txt file with the given input
+    3) Run gradle build
+    4) Run gradle test
+
+After executing gradle test, an output file or an error file is created inside the new sub-folder based on the evaluation
+of the given input.

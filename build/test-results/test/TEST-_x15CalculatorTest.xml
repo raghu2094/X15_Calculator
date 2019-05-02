@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="_x15CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-01T01:12:57" hostname="DESKTOP-MDT29VB" time="0.007">
+<testsuite name="_x15CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-02T03:48:42" hostname="DESKTOP-MDT29VB" time="0.022">
   <properties/>
-  <testcase name="main" classname="_x15CalculatorTest" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="main" classname="_x15CalculatorTest" time="0.022"/>
+  <system-out><![CDATA[Stack [5]
+Stack [5, 5]
+Stack [10]
+Stack [10, 5]
+Stack [10, 3125]
+Stack [5]
+Stack [2]
+Stack [5]
+Stack [15]
+Stack [15, 6]
+Stack [21]
+Stack [441]
+Stack [5]
+Stack [15]
+Stack [15, 18]
+Stack [15, 6]
+Stack [15, 6, -2]
+Stack [0]
+Stack [0, -5]
+Stack [-5]
+Stack [-15]
+Stack [-15, -6]
+Stack [-15, -72]
+Stack [-15, -24]
+Stack [-39]
+Stack [36]
+Stack [4]
+Stack [144]
+Stack [48]
+Stack [48, 2]
+Stack [50]
+Stack [5]
+Stack [25]
+Stack [625]
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
